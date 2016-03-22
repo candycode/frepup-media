@@ -1,2 +1,2 @@
 # frepup-media
-Media resource for FRep modeler proof of concept
+Media resources for FRep modeler proof of concept
